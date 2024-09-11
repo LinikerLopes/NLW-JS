@@ -8,6 +8,13 @@
       "when": 1725970206035,
       "tag": "0000_eminent_paibok",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726010520245,
+      "tag": "0001_fresh_nitro",
+      "breakpoints": true
     }
   ]
 }
